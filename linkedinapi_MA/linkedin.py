@@ -12,8 +12,8 @@ from time import sleep
 from urllib.parse import urlencode, quote
 from typing import Dict, Union, Optional, List, Literal
 
-from linkedin_api.client import Client
-from linkedin_api.utils.helpers import (
+from linkedinapi_MA.client import Client
+from linkedinapi_MA.utils.helpers import (
     get_id_from_urn,
     get_urn_from_raw_update,
     get_list_posts_sorted_without_promoted,
