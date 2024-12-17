@@ -6,7 +6,6 @@ from linkedinapi_MA import Linkedin
 api = Linkedin('harrisonforf@gmail.com', 'Fordharrison@')
 
 users = ["harrison-ford-156b"]
-    #["dany-rosalie-edmond-rottiers-77068911", "laurent-chabrut-a20790121", "svrmg"]
 
 for user in users:
     # GET a profile
