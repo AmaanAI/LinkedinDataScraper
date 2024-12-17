@@ -2,6 +2,8 @@
 
 This Streamlit application fetches and displays LinkedIn profile data, posts, and contact information for a given user. The data is presented in an attractive, human-readable format while also providing raw JSON details for transparency.
 
+# For trial you can visit- https://linkedinscrape.streamlit.app/
+
 ---
 
 ## Features
