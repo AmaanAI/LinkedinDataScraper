@@ -41,7 +41,6 @@ This script:
    ```python
    users = ["profile-id-1", "profile-id-2"]
    ```
-   Example LinkedIn profile ID: `maytri-shah-299834275`
 
 3. Run the script:
    ```bash
