@@ -1,6 +1,6 @@
 import streamlit as st
 import json
-from linkedinapi_MA import Linkedin
+from .linkedinapi_MA import Linkedin
 
 # Streamlit UI
 st.title("LinkedIn Data Extractor")
